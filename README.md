@@ -1,5 +1,5 @@
 # Clock_SFP
-It's my small frontend project
+It's my clock project using front-end 
 
 Welcome to my first small front-end project! This repository contains the code for a Digital Clock that displays the current time dynamically in a visually appealing design. This project helped me explore the basics of HTML, CSS, and JavaScript.
 
