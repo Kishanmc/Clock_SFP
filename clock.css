@@ -3,6 +3,7 @@
 .title{
     
     font-family:fantasy;
+    color: #979d9e;
     color: #b7edf6;
     padding: 10px;
 }
@@ -63,6 +64,8 @@ body {
 }
 .date, .hours, .minute, .seconds {
     margin: 10px 0;
-    box-shadow: 0 0 20px #0ff, 0 0 30px #0ff inset;
+    /* box-shadow: 0 0 20px #0ff, 0 0 30px #0ff inset; Outer and inner glow */
+
+    /* box-shadow: 0 0 20px #979d9e, 0 0 30px #979d9e inset; */
     text-shadow: 0 0 5px #0ff, 0 0 5px #0ff, 0 0 5px #0ff;
 }
